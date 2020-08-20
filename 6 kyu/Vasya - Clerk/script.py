@@ -34,3 +34,4 @@ def tickets(people):
   """
   print(ticket([25, 25, 50]))  --> output: YES
   print(ticket([25, 100]))  --> output: NO
+"""
