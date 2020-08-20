@@ -8,7 +8,7 @@ def filter_list(l):
             lst.append(temp)
     return lst
 
-#Test
-#print(filter_list([1,2,'a','b']))
-#print(filter_list([1,'a','b',0,15]))
-#print(filter_list([1,2,'aasf','1','123',123]))
+# Test
+# print(filter_list([1,2,'a','b']))
+# print(filter_list([1,'a','b',0,15]))
+# print(filter_list([1,2,'aasf','1','123',123]))
