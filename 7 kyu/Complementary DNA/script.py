@@ -10,6 +10,8 @@ def DNA_strand(dna):
 #def DNA_strand(dna):
     return dna.translate(str.maketrans('ATCG', 'TAGC')) 
 
+'''
 print(DNA_strand("AAAA"))
 print(DNA_strand("ATTGC"))
 print(DNA_strand("GTAT"))
+'''
