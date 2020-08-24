@@ -1,4 +1,4 @@
-# Highest Scoring Word
+# Find the odd int
 
 ## Description 
 
