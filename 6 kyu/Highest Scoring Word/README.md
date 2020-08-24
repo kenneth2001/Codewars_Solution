@@ -17,3 +17,6 @@ All letters will be lowercase and all inputs will be valid.
     'man i need a taxi up to ubud' -> 'taxi'
     'what time are we climbing up the volcano' -> 'volcano'
     'take me to semynak' -> 'semynak'
+
+## Source
+https://www.codewars.com/kata/57eb8fcdf670e99d9b000272/train/python
