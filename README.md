@@ -1,5 +1,5 @@
 # Codewars Exercise
-
+https://www.codewars.com/users/kenneth2001/badges/large
 Language : 
 - Python3
 
