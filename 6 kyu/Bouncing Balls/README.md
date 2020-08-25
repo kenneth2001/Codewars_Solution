@@ -19,8 +19,8 @@ If all three conditions above are fulfilled, return a positive integer, otherwis
 Note:
 The ball can only be seen if the height of the rebounding ball is strictly greater than the window parameter.
 
-   - h = 3, bounce = 0.66, window = 1.5, result is 3
-   - h = 3, bounce = 1, window = 1.5, result is -1 
+    h = 3, bounce = 0.66, window = 1.5, result is 3
+    h = 3, bounce = 1, window = 1.5, result is -1 
 
 
 ## Test Cases
