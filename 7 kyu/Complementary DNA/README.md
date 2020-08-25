@@ -13,8 +13,8 @@ More similar exercise are found here http://rosalind.info/problems/list-view/ (s
 ## Test Cases
 
     "AAAA" -> "TTTT"
-    "ATTGC -> "TAACG
-    "GTAT -> "CATA
+    "ATTGC" -> "TAACG"
+    "GTAT" -> "CATA"
 
 ## Source
 https://www.codewars.com/kata/554e4a2f232cdd87d9000038/train/python
