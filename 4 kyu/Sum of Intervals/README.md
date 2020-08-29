@@ -21,6 +21,7 @@ List containing overlapping intervals:
 The sum of the lengths of these intervals is 7. Since [1, 4] and [3, 5] overlap, we can treat the interval as [1, 5], which has a length of 4.
 
 Example:
+
     sumIntervals( [
        [1,2],
        [6, 10],
