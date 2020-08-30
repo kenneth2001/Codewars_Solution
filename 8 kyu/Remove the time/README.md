@@ -14,10 +14,6 @@ Assume shortenToDate's input will always be a string, e.g. "Friday May 2, 7pm".
 
 Assume shortenToDate's output will be the shortened string, e.g., "Friday May 2".
 
-Example: 
-
-    "Friday May 2, 7pm". Assume shortenToDate's output will be the shortened string, e.g., "Friday May 2".
-
 ## Test Cases
 
     "Monday February 2, 8pm" -> "Monday February 2"
