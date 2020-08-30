@@ -16,7 +16,7 @@ You can assume, for the purpose of this kata, that the supplied array will not b
 
     [78, 56, 232, 12, 11, 43] -> 11
     [78, 56, -2, 12, 8, -33] -> -33
-    [0, 1-2**64, 2**64] -> 1-2**64
+    [0, 1-2**64, 2**64] -> -18446744073709551615
 
 ## Source
 https://www.codewars.com/kata/55a2d7ebe362935a210000b2/train/python
