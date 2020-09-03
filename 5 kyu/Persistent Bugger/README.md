@@ -14,6 +14,8 @@ Example:
 
     persistence(4) => 0   # Because 4 is already a one-digit number.
     
+    
+    
     persistence(39) # returns 3, because 3*9=27, 2*7=14, 1*4=4
                     # and 4 has only one digit
 
