@@ -13,6 +13,7 @@ For example: doubles('abbcccdddda') = 'aca', because, from left to right:
     e) There is only one 'a' at the end, so it stays.
     
 Two more examples: doubles('abbbzz') = 'ab' and doubles('abba') = "". 
+
 In the second example, when we remove the b's in 'abba', the double a that results is then removed.
 
 The strings will contain lowercase letters only. More examples in the test cases.
