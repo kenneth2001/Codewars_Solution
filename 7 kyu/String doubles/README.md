@@ -7,6 +7,8 @@ In this Kata, you will write a function doubles that will remove double string c
 For example:
 
     doubles('abbcccdddda') = 'aca', because, from left to right
+    
+    
 
     
     a) There is only one 'a' on the left hand side, so it stays.
