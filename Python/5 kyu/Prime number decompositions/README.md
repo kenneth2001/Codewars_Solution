@@ -1,4 +1,4 @@
-# Best travel
+# Prime number decompositions
 
 ## Description 
 
