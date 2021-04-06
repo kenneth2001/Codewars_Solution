@@ -39,7 +39,7 @@ Code For Fun
 | 22 | [String doubles](https://www.codewars.com/kata/5a145ab08ba9148dd6000094/train/python) | 7 kyu | [script.py](https://github.com/kenneth2001/codewars_exercise/blob/master/Python/7%20kyu/String%20doubles/script.py) |
 | 23 | [Vowel Count](https://www.codewars.com/kata/54ff3102c1bad923760001f3/train/python) | 7 kyu | [script.py](https://github.com/kenneth2001/codewars_exercise/blob/master/Python/7%20kyu/Vowel%20Count/script.py) |
 ||||
-| 24 | [Bouncing Balls](https://www.codewars.com/kata/5544c7a5cb454edb3c000047/train/python) | 6 kyu | [script.py]https://github.com/kenneth2001/codewars_exercise/blob/master/Python/6%20kyu/Bouncing%20Balls/script.py |
+| 24 | [Bouncing Balls](https://www.codewars.com/kata/5544c7a5cb454edb3c000047/train/python) | 6 kyu | [script.py](https://github.com/kenneth2001/codewars_exercise/blob/master/Python/6%20kyu/Bouncing%20Balls/script.py) |
 | 25 | [Break camelCase](https://www.codewars.com/kata/5208f99aee097e6552000148/train/python) | 6 kyu | [script.py](https://github.com/kenneth2001/codewars_exercise/blob/master/Python/6%20kyu/Break%20camelCase/script.py) |
 | 26 | [Find The Parity Outlier](https://www.codewars.com/kata/5526fc09a1bbd946250002dc/train/python) | 6 kyu | [script.py](https://github.com/kenneth2001/codewars_exercise/blob/master/Python/6%20kyu/Find%20The%20Parity%20Outlier/script.py) |
 | 27 | [Find the odd int](https://www.codewars.com/kata/54da5a58ea159efa38000836/train/python) | 6 kyu | [script.py](https://github.com/kenneth2001/codewars_exercise/blob/master/Python/6%20kyu/Find%20the%20odd%20int/script.py) |
