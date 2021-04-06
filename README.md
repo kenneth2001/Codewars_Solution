@@ -24,8 +24,7 @@ Code For Fun
 | 8 | [Reversed Strings](https://www.codewars.com/kata/5168bb5dfe9a00b126000018/train/python) | [script.py](https://github.com/kenneth2001/codewars_exercise/blob/master/Python/8%20kyu/Reversed%20Strings/script.py) |
 | 9 | [String repeat](https://www.codewars.com/kata/57a0e5c372292dd76d000d7e/train/python) | [script.py](https://github.com/kenneth2001/codewars_exercise/blob/master/Python/8%20kyu/String%20repeat/script.py) |
 | 10 | [Sum of positive](https://www.codewars.com/kata/5715eaedb436cf5606000381/train/python) | [script.py](https://github.com/kenneth2001/codewars_exercise/blob/master/Python/8%20kyu/Sum%20of%20positive/script.py) |
-|  | Challenge (7 kyu) | Solution |
-| --- | --- | --- |
+|  | **Challenge (7 kyu)** | **Solution** |
 | 1 | [Complementary DNA](https://www.codewars.com/kata/554e4a2f232cdd87d9000038/train/python) | [script.py](https://github.com/kenneth2001/codewars_exercise/blob/master/Python/7%20kyu/Complementary%20DNA/script.py) |
 | 2 | [Count the Digit](https://www.codewars.com/kata/566fc12495810954b1000030/train/python) | [script.py](https://github.com/kenneth2001/codewars_exercise/blob/master/Python/7%20kyu/Count%20the%20Digit/script.py) |
 | 3 | [Descending Order](https://www.codewars.com/kata/5467e4d82edf8bbf40000155/train/python) | [script.py](https://github.com/kenneth2001/codewars_exercise/blob/master/Python/7%20kyu/Descending%20Order/script.py) |
@@ -53,7 +52,6 @@ Code For Fun
 | 11 | [Vasya - Clerk](https://www.codewars.com/kata/555615a77ebc7c2c8a0000b8/train/python) | [script.py](https://github.com/kenneth2001/codewars_exercise/blob/master/Python/6%20kyu/Vasya%20-%20Clerk/script.py) |
 | 12 | [Who likes it?](https://www.codewars.com/kata/5266876b8f4bf2da9b000362/train/python) | [script.py](https://github.com/kenneth2001/codewars_exercise/blob/master/Python/6%20kyu/Who%20likes%20it/script.py) |
 |  | **Challenge (5 kyu)** | **Solution** |
-| --- | --- | --- |
 | 1 | [Basic DeNico](https://www.codewars.com/kata/596f610441372ee0de00006e/train/python) | [script.py](https://github.com/kenneth2001/codewars_exercise/blob/master/Python/5%20kyu/Basic%20DeNico/script.py) |
 | 2 | [Best travel](https://www.codewars.com/kata/55e7280b40e1c4a06d0000aa/train/python) | [script.py](https://github.com/kenneth2001/codewars_exercise/blob/master/Python/5%20kyu/Best%20travel/script.py) |
 | 3 | [Directions Reduction](https://www.codewars.com/kata/550f22f4d758534c1100025a/train/python) | [script.py](https://github.com/kenneth2001/codewars_exercise/blob/master/Python/5%20kyu/Directions%20Reduction/script.py) |
@@ -64,7 +62,6 @@ Code For Fun
 | 8 | [String incrementer](https://www.codewars.com/kata/54a91a4883a7de5d7800009c/train/python) | [script.py](https://github.com/kenneth2001/codewars_exercise/blob/master/Python/5%20kyu/String%20incrementer/script.py) |
 | 9 | [What's a Perfect Power anyway?](https://www.codewars.com/kata/54d4c8b08776e4ad92000835/train/python) | [script.py](https://github.com/kenneth2001/codewars_exercise/blob/master/Python/5%20kyu/What's%20a%20Perfect%20Power%20anyway_/script.py) |
 |  | **Challenge (4 kyu)** | **Solution** |
-| --- | --- | --- |
 | 1 | [Pyramid Slide Down](https://www.codewars.com/kata/551f23362ff852e2ab000037/train/python) |  [script.py](https://github.com/kenneth2001/codewars_exercise/blob/master/Python/4%20kyu/Pyramid%20Slide%20Down/script.py) |
 | 2 | [Snail](https://www.codewars.com/kata/521c2db8ddc89b9b7a0000c1/train/python) | [script.py](https://github.com/kenneth2001/codewars_exercise/blob/master/Python/4%20kyu/Snail/script.py) |
 | 3 | [Sum of Intervals](https://www.codewars.com/kata/52b7ed099cdc285c300001cd/train/python) | [script.py](https://github.com/kenneth2001/codewars_exercise/blob/master/Python/4%20kyu/Sum%20of%20Intervals/script.py) |
