@@ -1,4 +1,4 @@
-# Best travel
+# Probabilities for Sums in Rolling Cubic Dice
 
 ## Description 
 
