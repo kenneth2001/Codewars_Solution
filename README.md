@@ -12,8 +12,8 @@ Code For Fun
 - Github: [@kenneth2001](https://github.com/kenneth2001)
 - 19 Years old
 ## Answer
-| # | Challenge (8 kyu) | Solution | Python | C | Java |
-| --- | --- | --- | --- | --- | --- |
+| # | Challenge (8 kyu) | Python | C | Java |
+| --- | --- | --- | --- | --- |
 | 1 | [Counting Sheep](https://www.codewars.com/kata/54edbc7200b811e956000556/train/python) | [script.py](https://github.com/kenneth2001/codewars_exercise/blob/master/Python/8%20kyu/Counting%20Sheep/script.py) |
 | 2 | [Even and Odd](https://www.codewars.com/kata/53da3dbb4a5168369a0000fe/train/python) | [script.py](https://github.com/kenneth2001/codewars_exercise/blob/master/Python/8%20kyu/Even%20and%20Odd/script.py) | 
 | 3 | [Find the smallest integer in the array](https://www.codewars.com/kata/55a2d7ebe362935a210000b2/train/python) | [script.py](https://github.com/kenneth2001/codewars_exercise/blob/master/Python/8%20kyu/Find%20the%20smallest%20integer%20in%20the%20array/script.py) |
@@ -24,6 +24,7 @@ Code For Fun
 | 8 | [Reversed Strings](https://www.codewars.com/kata/5168bb5dfe9a00b126000018/train/python) | [script.py](https://github.com/kenneth2001/codewars_exercise/blob/master/Python/8%20kyu/Reversed%20Strings/script.py) |
 | 9 | [String repeat](https://www.codewars.com/kata/57a0e5c372292dd76d000d7e/train/python) | [script.py](https://github.com/kenneth2001/codewars_exercise/blob/master/Python/8%20kyu/String%20repeat/script.py) |
 | 10 | [Sum of positive](https://www.codewars.com/kata/5715eaedb436cf5606000381/train/python) | [script.py](https://github.com/kenneth2001/codewars_exercise/blob/master/Python/8%20kyu/Sum%20of%20positive/script.py) |
+| 11 | [Sum without highest and lowest number](https://www.codewars.com/kata/576b93db1129fcf2200001e6/train/) | [script.py](https://github.com/kenneth2001/codewars_exercise/blob/master/Solution/8%20kyu/Sum%20without%20highest%20and%20lowest%20number/script.py) | | [Kata.java](https://github.com/kenneth2001/codewars_exercise/blob/master/Solution/8%20kyu/Sum%20without%20highest%20and%20lowest%20number/Kata.java) |
 |  | **Challenge (7 kyu)** | **Solution** |
 | 1 | [Complementary DNA](https://www.codewars.com/kata/554e4a2f232cdd87d9000038/train/python) | [script.py](https://github.com/kenneth2001/codewars_exercise/blob/master/Python/7%20kyu/Complementary%20DNA/script.py) |
 | 2 | [Count the Digit](https://www.codewars.com/kata/566fc12495810954b1000030/train/python) | [script.py](https://github.com/kenneth2001/codewars_exercise/blob/master/Python/7%20kyu/Count%20the%20Digit/script.py) |
