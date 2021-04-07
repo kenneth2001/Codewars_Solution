@@ -2,7 +2,8 @@
 [![CodeWars](https://www.codewars.com/users/kenneth2001/badges/large)](https://www.codewars.com/users/kenneth2001/)
 
 Language : 
-- Solution3
+- Python3
+- C
 - Java
 
 ## Happy Coding
