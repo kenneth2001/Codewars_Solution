@@ -12,8 +12,8 @@ Code For Fun
 - Github: [@kenneth2001](https://github.com/kenneth2001)
 - 19 Years old
 ## Answer
-|  | Challenge (8 kyu) | Solution | Python | C | Java |
-| --- | --- | --- | --- | --- |
+| # | Challenge (8 kyu) | Solution | Python | C | Java |
+| --- | --- | --- | --- | --- | --- |
 | 1 | [Counting Sheep](https://www.codewars.com/kata/54edbc7200b811e956000556/train/python) | [script.py](https://github.com/kenneth2001/codewars_exercise/blob/master/Python/8%20kyu/Counting%20Sheep/script.py) |
 | 2 | [Even and Odd](https://www.codewars.com/kata/53da3dbb4a5168369a0000fe/train/python) | [script.py](https://github.com/kenneth2001/codewars_exercise/blob/master/Python/8%20kyu/Even%20and%20Odd/script.py) | 
 | 3 | [Find the smallest integer in the array](https://www.codewars.com/kata/55a2d7ebe362935a210000b2/train/python) | [script.py](https://github.com/kenneth2001/codewars_exercise/blob/master/Python/8%20kyu/Find%20the%20smallest%20integer%20in%20the%20array/script.py) |
