@@ -13,8 +13,9 @@ Code For Fun
 - Github: [@kenneth2001](https://github.com/kenneth2001)
 - 19 Years old
 ## Answer
-| # | Challenge (8 kyu) | Python | C | Java |
+| # | Challenge | Python | C | Java |
 | --- | --- | --- | --- | --- |
+|| Challenge (8 kyu)|||
 | 1 | [Counting Sheep](https://www.codewars.com/kata/54edbc7200b811e956000556/train) | [script.py](https://github.com/kenneth2001/codewars_exercise/blob/master/Solution/8%20kyu/Counting%20Sheep/script.py) | [script.c](https://github.com/kenneth2001/codewars_exercise/blob/master/Solution/8%20kyu/Counting%20Sheep/script.c) |
 | 2 | [Even and Odd](https://www.codewars.com/kata/53da3dbb4a5168369a0000fe/train) | [script.py](https://github.com/kenneth2001/codewars_exercise/blob/master/Solution/8%20kyu/Even%20and%20Odd/script.py) | [script.c](https://github.com/kenneth2001/codewars_exercise/blob/master/Solution/8%20kyu/Even%20and%20Odd/script.c) |
 | 3 | [Find the smallest integer in the array](https://www.codewars.com/kata/55a2d7ebe362935a210000b2/train) | [script.py](https://github.com/kenneth2001/codewars_exercise/blob/master/Solution/8%20kyu/Find%20the%20smallest%20integer%20in%20the%20array/script.py) | [script.c](https://github.com/kenneth2001/codewars_exercise/blob/master/Solution/8%20kyu/Find%20the%20smallest%20integer%20in%20the%20array/script.c) |
