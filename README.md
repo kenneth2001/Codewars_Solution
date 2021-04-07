@@ -64,6 +64,7 @@ Code For Fun
 | 8 | [String incrementer](https://www.codewars.com/kata/54a91a4883a7de5d7800009c/train) | [script.py](https://github.com/kenneth2001/codewars_exercise/blob/master/Solution/5%20kyu/String%20incrementer/script.py) |
 | 9 | [What's a Perfect Power anyway?](https://www.codewars.com/kata/54d4c8b08776e4ad92000835/train) | [script.py](https://github.com/kenneth2001/codewars_exercise/blob/master/Solution/5%20kyu/What's%20a%20Perfect%20Power%20anyway_/script.py) |
 | 10 | [Simple Pig Latin](https://www.codewars.com/kata/520b9d2ad5c005041100000f/train/python) | [script.py](https://github.com/kenneth2001/codewars_exercise/blob/master/Solution/5%20kyu/Simple%20Pig%20Latin/script.py) |
+| 11 | [Human Readable Time](https://www.codewars.com/kata/52685f7382004e774f0001f7/train/python) | [script.py](https://github.com/kenneth2001/codewars_exercise/blob/master/Solution/5%20kyu/Human%20Readable%20Time/script.py) |
 |  | **Challenge (4 kyu)** | |
 | 1 | [Pyramid Slide Down](https://www.codewars.com/kata/551f23362ff852e2ab000037/train) |  [script.py](https://github.com/kenneth2001/codewars_exercise/blob/master/Solution/4%20kyu/Pyramid%20Slide%20Down/script.py) |
 | 2 | [Snail](https://www.codewars.com/kata/521c2db8ddc89b9b7a0000c1/train) | [script.py](https://github.com/kenneth2001/codewars_exercise/blob/master/Solution/4%20kyu/Snail/script.py) |
