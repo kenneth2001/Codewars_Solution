@@ -28,7 +28,7 @@ Code For Fun
 |  | **Challenge (7 kyu)** | **Solution** |
 | 1 | [Complementary DNA](https://www.codewars.com/kata/554e4a2f232cdd87d9000038/train) | [script.py](https://github.com/kenneth2001/codewars_exercise/blob/master/Solution/7%20kyu/Complementary%20DNA/script.py) |
 | 2 | [Count the Digit](https://www.codewars.com/kata/566fc12495810954b1000030/train) | [script.py](https://github.com/kenneth2001/codewars_exercise/blob/master/Solution/7%20kyu/Count%20the%20Digit/script.py) |
-| 3 | [Descending Order](https://www.codewars.com/kata/5467e4d82edf8bbf40000155/train) | [script.py](https://github.com/kenneth2001/codewars_exercise/blob/master/Solution/7%20kyu/Descending%20Order/script.py) |
+| 3 | [Descending Order](https://www.codewars.com/kata/5467e4d82edf8bbf40000155/train) | [script.py](https://github.com/kenneth2001/codewars_exercise/blob/master/Solution/7%20kyu/Descending%20Order/script.py) | [script.c](https://github.com/kenneth2001/codewars_exercise/blob/master/Solution/7%20kyu/Descending%20Order/script.c) |
 | 4 | [Disemvowel Trolls](https://www.codewars.com/kata/52fba66badcd10859f00097e/train) | [script.py](https://github.com/kenneth2001/codewars_exercise/blob/master/Solution/7%20kyu/Disemvowel%20Trolls/script.py) |
 | 5 | [Factorial](https://www.codewars.com/kata/54ff0d1f355cfd20e60001fc/train) | [script.py](https://github.com/kenneth2001/codewars_exercise/blob/master/Solution/7%20kyu/Factorial/script.py) |
 | 6 | [Get the Middle Character](https://www.codewars.com/kata/566fc12495810954b1000030/train) | [script.py](https://github.com/kenneth2001/codewars_exercise/blob/master/Solution/7%20kyu/Get%20the%20Middle%20Character/script.py) |
