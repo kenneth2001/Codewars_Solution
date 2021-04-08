@@ -26,7 +26,7 @@ The following rules should be observed:
 
 **Example**: `whoa, you are my 123 <3` becomes `LOL WHOA u R my 123 <3` = 7 words
 
-[^2]3[^2]:The incoming string will be punctuated properly, so punctuation does not need to be validated.
+[^3]:The incoming string will be punctuated properly, so punctuation does not need to be validated.
 
 
 
