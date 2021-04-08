@@ -33,7 +33,7 @@ Logic Examples:
 Note: Codewars no longer uses this algorithm for its own ranking system. It uses a pure Math based solution that gives consistent results no matter what order a set of ranked activities are completed at.
 
 Code Usage Examples:
-
+```python
     user = User()
     user.rank # => -8
     user.progress # => 0
@@ -42,6 +42,6 @@ Code Usage Examples:
     user.inc_progress(-5) # will add 90 progress
     user.progress # => 0 # progress is now zero
     user.rank # => -7 # rank was upgraded to -7
-
+```
 ## Source
 https://www.codewars.com/kata/51fda2d95d6efda45e00004e/train/python
