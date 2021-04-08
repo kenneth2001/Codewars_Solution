@@ -20,7 +20,7 @@ The following rules should be observed:
 -  [^3]A question mark ( ? ) should have more question marks added to it, equal to the number of words2 in the sentence (**Example:** `Are you a foo?` has 4 words, so it would be converted to `r U a F00????`)
 -  [^3]Similarly, exclamation points ( ! ) should be replaced by a series of alternating exclamation points and the number 1, equal to the number of words[^2] in the sentence (**Example:** `You are a foo!` becomes `u R a F00!1!1`)
 
-[^1]: Characters should be counted After: any word conversions, adding additional words, and removing punctuation. Excluding: All punctuation and any 1's added after exclamation marks ( ! ). Character count includes spaces.
+<sup>1</sup>: Characters should be counted After: any word conversions, adding additional words, and removing punctuation. Excluding: All punctuation and any 1's added after exclamation marks ( ! ). Character count includes spaces.
 
 [^2]: For the sake of this kata, "words" are simply a space-delimited substring, regardless of its characters. Since the output may have a different number of words than the input, words should be counted based on the output string.
 
