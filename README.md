@@ -74,3 +74,5 @@ Code For Fun
 | 2 | [Snail](https://www.codewars.com/kata/521c2db8ddc89b9b7a0000c1/train) | [script.py](https://github.com/kenneth2001/codewars_exercise/blob/master/Solution/4%20kyu/Snail/script.py) |
 | 3 | [Sum of Intervals](https://www.codewars.com/kata/52b7ed099cdc285c300001cd/train) | [script.py](https://github.com/kenneth2001/codewars_exercise/blob/master/Solution/4%20kyu/Sum%20of%20Intervals/script.py) |
 | 4 | [Codewars style ranking system](https://www.codewars.com/kata/51fda2d95d6efda45e00004e/train/python) | [script.py](https://github.com/kenneth2001/codewars_exercise/blob/master/Solution/4%20kyu/Codewars%20style%20ranking%20system/script.py) |
+| | **Challenge (3 kyu)** | |
+| 1 | [The Millionth Fibonacci Kata](https://www.codewars.com/kata/53d40c1e2f13e331fc000c26/train/python) | [script.py]https://github.com/kenneth2001/codewars_exercise/blob/master/Solution/3%20kyu/The%20Millionth%20Fibonacci%20Kata/script.py |
