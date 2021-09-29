@@ -56,6 +56,7 @@ Code For Fun
 | 11 | [Vasya - Clerk](https://www.codewars.com/kata/555615a77ebc7c2c8a0000b8/train) | [script.py](https://github.com/kenneth2001/codewars_solution/blob/master/Solution/6%20kyu/Vasya%20-%20Clerk/script.py) |
 | 12 | [Who likes it?](https://www.codewars.com/kata/5266876b8f4bf2da9b000362/train) | [script.py](https://github.com/kenneth2001/codewars_solution/blob/master/Solution/6%20kyu/Who%20likes%20it/script.py) |
 | 13 | [Duplicate Encoder](https://www.codewars.com/kata/54b42f9314d9229fd6000d9c/train/python) | [script.py](https://github.com/kenneth2001/codewars_solution/blob/master/Solution/6%20kyu/Duplicate%20Encoder/script.py) |
+| 14 | [Array.diff](https://www.codewars.com/kata/523f5d21c841566fde000009/train/python) | [script.py](https://github.com/kenneth2001/codewars_solution/blob/master/Solution/6%20kyu/Array.diff/script.py) |
 |  | **Challenge (5 kyu)** | |
 | 1 | [Basic DeNico](https://www.codewars.com/kata/596f610441372ee0de00006e/train) | [script.py](https://github.com/kenneth2001/codewars_solution/blob/master/Solution/5%20kyu/Basic%20DeNico/script.py) |
 | 2 | [Best travel](https://www.codewars.com/kata/55e7280b40e1c4a06d0000aa/train) | [script.py](https://github.com/kenneth2001/codewars_solution/blob/master/Solution/5%20kyu/Best%20travel/script.py) |
