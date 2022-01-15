@@ -13,8 +13,8 @@ Code For Fun
 - Github: [@kenneth2001](https://github.com/kenneth2001)
 - 19 Years old
 ## Answer
-| # | Challenge | Python | C | Java |
-| --- | --- | --- | --- | --- |
+| # | Challenge | Python | C | Java | JavaScript |
+| --- | --- | --- | --- | --- | --- |
 || **Challenge (8 kyu)** |||
 | 1 | [Counting Sheep](https://www.codewars.com/kata/54edbc7200b811e956000556/train) | [script.py](https://github.com/kenneth2001/codewars_solution/blob/master/Solution/8%20kyu/Counting%20Sheep/script.py) | [script.c](https://github.com/kenneth2001/codewars_solution/blob/master/Solution/8%20kyu/Counting%20Sheep/script.c) |
 | 2 | [Even and Odd](https://www.codewars.com/kata/53da3dbb4a5168369a0000fe/train) | [script.py](https://github.com/kenneth2001/codewars_solution/blob/master/Solution/8%20kyu/Even%20and%20Odd/script.py) | [script.c](https://github.com/kenneth2001/codewars_solution/blob/master/Solution/8%20kyu/Even%20and%20Odd/script.c) |
@@ -28,6 +28,7 @@ Code For Fun
 | 10 | [Sum of positive](https://www.codewars.com/kata/5715eaedb436cf5606000381/train) | [script.py](https://github.com/kenneth2001/codewars_solution/blob/master/Solution/8%20kyu/Sum%20of%20positive/script.py) |
 | 11 | [Sum without highest and lowest number](https://www.codewars.com/kata/576b93db1129fcf2200001e6/train/) | [script.py](https://github.com/kenneth2001/codewars_solution/blob/master/Solution/8%20kyu/Sum%20without%20highest%20and%20lowest%20number/script.py) | | [Kata.java](https://github.com/kenneth2001/codewars_solution/blob/master/Solution/8%20kyu/Sum%20without%20highest%20and%20lowest%20number/Kata.java) |
 | 12 | [Holiday VIII - Duty Free](https://www.codewars.com/kata/57e92e91b63b6cbac20001e5/train/python) | [script.py](https://github.com/kenneth2001/codewars_solution/blob/master/Solution/8%20kyu/Holiday%20VIII%20-%20Duty%20Free/script.py) |
+| 13 | [Square(n) Sum](https://www.codewars.com/kata/515e271a311df0350d00000f/train/javascript) | | | |[script.js](https://github.com/kenneth2001/codewars_solution/blob/master/Solution/8%20kyu/Square(n)%20Sum/script.js) |
 |  | **Challenge (7 kyu)** ||
 | 1 | [Complementary DNA](https://www.codewars.com/kata/554e4a2f232cdd87d9000038/train) | [script.py](https://github.com/kenneth2001/codewars_solution/blob/master/Solution/7%20kyu/Complementary%20DNA/script.py) |
 | 2 | [Count the Digit](https://www.codewars.com/kata/566fc12495810954b1000030/train) | [script.py](https://github.com/kenneth2001/codewars_solution/blob/master/Solution/7%20kyu/Count%20the%20Digit/script.py) |
