@@ -62,6 +62,7 @@ Code For Fun
 | 14 | [Array.diff](https://www.codewars.com/kata/523f5d21c841566fde000009/train/python) | [script.py](https://github.com/kenneth2001/codewars_solution/blob/master/Solution/6%20kyu/Array.diff/script.py) |
 | 15 | [Bit Counting](https://www.codewars.com/kata/526571aae218b8ee490006f4/train/python) | [script.py](https://github.com/kenneth2001/Codewars_solution/tree/master/Solution/6%20kyu/Bit%20Counting/script.py) |
 | 16 | [Create Phone Number](https://www.codewars.com/kata/525f50e3b73515a6db000b83/train/python) | [script.py](https://github.com/kenneth2001/codewars_solution/blob/master/Solution/6%20kyu/Create%20Phone%20Number/script.py) |
+| 17 | [Replace With Alphabet Position](https://www.codewars.com/kata/546f922b54af40e1e90001da/train/python) | [script.py](https://github.com/kenneth2001/codewars_solution/blob/master/Solution/6%20kyu/Replace%20With%20Alphabet%20Position/script.py) |
 |  | **Challenge (5 kyu)** | |
 | 1 | [Basic DeNico](https://www.codewars.com/kata/596f610441372ee0de00006e/train) | [script.py](https://github.com/kenneth2001/codewars_solution/blob/master/Solution/5%20kyu/Basic%20DeNico/script.py) |
 | 2 | [Best travel](https://www.codewars.com/kata/55e7280b40e1c4a06d0000aa/train) | [script.py](https://github.com/kenneth2001/codewars_solution/blob/master/Solution/5%20kyu/Best%20travel/script.py) |
