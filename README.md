@@ -11,7 +11,7 @@ Code For Fun
 ## Author
 👤 **Kenneth**
 - Github: [@kenneth2001](https://github.com/kenneth2001)
-- 19 Years old
+- 20 Years old
 ## Answer
 | # | Challenge | Python | C | Java | JavaScript |
 | --- | --- | --- | --- | --- | --- |
@@ -49,6 +49,7 @@ Code For Fun
 | 16 | [Isograms](https://www.codewars.com/kata/54ba84be607a92aa900000f1/train/python) | [script.py](https://github.com/kenneth2001/codewars_solution/blob/master/Solution/7%20kyu/Isograms/script.py) |
 | 17 | [Exes and Ohs](https://www.codewars.com/kata/55908aad6620c066bc00002a/train/python) | [script.py](https://github.com/kenneth2001/codewars_solution/blob/master/Solution/7%20kyu/Exes%20and%20Ohs/script.py) |
 | 18 | [Jaden Casing Strings](https://www.codewars.com/kata/5390bac347d09b7da40006f6/train/python) | [script.py](https://github.com/kenneth2001/codewars_solution/blob/master/Solution/7%20kyu/Jaden%20Casing%20Strings/script.py) |
+| 19 | [Shortest Word](https://www.codewars.com/kata/57cebe1dc6fdc20c57000ac9/train/python) | [script.py](https://github.com/kenneth2001/codewars_solution/blob/master/Solution/7%20kyu/Shortest%20Word/script.py) |
 |  | **Challenge (6 kyu)** | |
 | 1 | [Bouncing Balls](https://www.codewars.com/kata/5544c7a5cb454edb3c000047/train) | [script.py](https://github.com/kenneth2001/codewars_solution/blob/master/Solution/6%20kyu/Bouncing%20Balls/script.py) |
 | 2 | [Break camelCase](https://www.codewars.com/kata/5208f99aee097e6552000148/train) | [script.py](https://github.com/kenneth2001/codewars_solution/blob/master/Solution/6%20kyu/Break%20camelCase/script.py) |
