@@ -46,6 +46,7 @@ Code For Fun
 | 13 | [Vowel Count](https://www.codewars.com/kata/54ff3102c1bad923760001f3/train) | [script.py](https://github.com/kenneth2001/codewars_solution/blob/master/Solution/7%20kyu/Vowel%20Count/script.py) |
 | 14 | [Sum of the first nth term of Series](https://www.codewars.com/kata/555eded1ad94b00403000071/train) | | | | [script.js](https://github.com/kenneth2001/codewars_solution/blob/master/Solution/7%20kyu/Sum%20of%20the%20first%20nth%20term%20of%20Series/script.js) |
 | 15 | [You're a square!](https://www.codewars.com/kata/54c27a33fb7da0db0100040e/train/python) | [script.py](https://github.com/kenneth2001/codewars_solution/blob/master/Solution/7%20kyu/You're%20a%20square!/script.py) |
+| 16 | [Isograms](https://www.codewars.com/kata/54ba84be607a92aa900000f1/train/python) | [script.py](https://github.com/kenneth2001/codewars_solution/blob/master/Solution/7%20kyu/Isograms/script.py) |
 |  | **Challenge (6 kyu)** | |
 | 1 | [Bouncing Balls](https://www.codewars.com/kata/5544c7a5cb454edb3c000047/train) | [script.py](https://github.com/kenneth2001/codewars_solution/blob/master/Solution/6%20kyu/Bouncing%20Balls/script.py) |
 | 2 | [Break camelCase](https://www.codewars.com/kata/5208f99aee097e6552000148/train) | [script.py](https://github.com/kenneth2001/codewars_solution/blob/master/Solution/6%20kyu/Break%20camelCase/script.py) |
