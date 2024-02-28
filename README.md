@@ -1,20 +1,9 @@
 # Codewars Exercise
 [![CodeWars](https://www.codewars.com/users/kenneth2001/badges/large)](https://www.codewars.com/users/kenneth2001/)
 
-Language : 
-- Python3
-- C
-- Java
-
-## Happy Coding
-Code For Fun
-## Author
-👤 **Kenneth**
-- Github: [@kenneth2001](https://github.com/kenneth2001)
-- 20 Years old
 ## Answer
-| # | Challenge | Python | C | Java | JavaScript |
-| --- | --- | --- | --- | --- | --- |
+| # | Challenge | Python | C | Java | JavaScript | SQL |
+| --- | --- | --- | --- | --- | --- | --- |
 || **Challenge (8 kyu)** |||
 | 1 | [Counting Sheep](https://www.codewars.com/kata/54edbc7200b811e956000556/train) | [script.py](https://github.com/kenneth2001/codewars_solution/blob/master/Solution/8%20kyu/Counting%20Sheep/script.py) | [script.c](https://github.com/kenneth2001/codewars_solution/blob/master/Solution/8%20kyu/Counting%20Sheep/script.c) |
 | 2 | [Even and Odd](https://www.codewars.com/kata/53da3dbb4a5168369a0000fe/train) | [script.py](https://github.com/kenneth2001/codewars_solution/blob/master/Solution/8%20kyu/Even%20and%20Odd/script.py) | [script.c](https://github.com/kenneth2001/codewars_solution/blob/master/Solution/8%20kyu/Even%20and%20Odd/script.c) | | [script.js](https://github.com/kenneth2001/codewars_solution/blob/master/Solution/8%20kyu/Even%20and%20Odd/script.js) |
@@ -46,7 +35,7 @@ Code For Fun
 | 10 | [Odd or Even?](https://www.codewars.com/kata/5949481f86420f59480000e7/train) | [script.py](https://github.com/kenneth2001/codewars_solution/blob/master/Solution/7%20kyu/Odd%20or%20Even_/script.py) |
 | 11 | [Square Every Digit](https://www.codewars.com/kata/546e2562b03326a88e000020/train) | [script.py](https://github.com/kenneth2001/codewars_solution/blob/master/Solution/7%20kyu/Square%20Every%20Digit/script.py) |
 | 12 | [String doubles](https://www.codewars.com/kata/5a145ab08ba9148dd6000094/train) | [script.py](https://github.com/kenneth2001/codewars_solution/blob/master/Solution/7%20kyu/String%20doubles/script.py) |
-| 13 | [Vowel Count](https://www.codewars.com/kata/54ff3102c1bad923760001f3/train) | [script.py](https://github.com/kenneth2001/codewars_solution/blob/master/Solution/7%20kyu/Vowel%20Count/script.py) |
+| 13 | [Vowel Count](https://www.codewars.com/kata/54ff3102c1bad923760001f3/train) | [script.py](https://github.com/kenneth2001/codewars_solution/blob/master/Solution/7%20kyu/Vowel%20Count/script.py) | | | | [sol.sql](https://github.com/kenneth2001/codewars_solution/blob/master/Solution/7%20kyu/Vowel%20Count/sol.sql) |
 | 14 | [Sum of the first nth term of Series](https://www.codewars.com/kata/555eded1ad94b00403000071/train) | | | | [script.js](https://github.com/kenneth2001/codewars_solution/blob/master/Solution/7%20kyu/Sum%20of%20the%20first%20nth%20term%20of%20Series/script.js) |
 | 15 | [You're a square!](https://www.codewars.com/kata/54c27a33fb7da0db0100040e/train/python) | [script.py](https://github.com/kenneth2001/codewars_solution/blob/master/Solution/7%20kyu/You're%20a%20square!/script.py) |
 | 16 | [Isograms](https://www.codewars.com/kata/54ba84be607a92aa900000f1/train/python) | [script.py](https://github.com/kenneth2001/codewars_solution/blob/master/Solution/7%20kyu/Isograms/script.py) |
