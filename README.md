@@ -96,5 +96,6 @@
 | 5 | [Next bigger number with the same digits](https://www.codewars.com/kata/55983863da40caa2c900004e/train/python) | [script.py](https://github.com/kenneth2001/codewars_solution/blob/master/Solution//4%20kyu/Next%20bigger%20number%20with%20the%20same%20digits/script.py) |
 | 6 | [Human readable duration format](https://www.codewars.com/kata/52742f58faf5485cae000b9a/train/python) | [script.py](https://github.com/kenneth2001/codewars_solution/blob/master/Solution/4%20kyu/Human%20readable%20duration%20format/script.py) |
 | 7 | [Strip Comments](https://www.codewars.com/kata/51c8e37cee245da6b40000bd/train/python) | [script.py](https://github.com/kenneth2001/codewars_solution/blob/master/Solution/4%20kyu/Strip%20Comments/script.py) |
+| 8 | [Dealing With Messy Data](https://www.codewars.com/kata/5821ee33ec380124f1000013/train/sql) | | | | | [sol.sql](https://github.com/kenneth2001/codewars_solution/blob/master/Solution/4%20kyu/Dealing%20With%20Messy%20Data/sol.sql) |
 | | **Challenge (3 kyu)** | |
 | 1 | [The Millionth Fibonacci Kata](https://www.codewars.com/kata/53d40c1e2f13e331fc000c26/train/python) | [script.py](https://github.com/kenneth2001/codewars_solution/blob/master/Solution/3%20kyu/The%20Millionth%20Fibonacci%20Kata/script.py) |
