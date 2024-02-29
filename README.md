@@ -22,6 +22,7 @@
 | 15 | [Convert a Number to a String!](https://www.codewars.com/kata/5265326f5fda8eb1160004c8/train/python) | [script.py](https://github.com/kenneth2001/codewars_solution/blob/master/Solution/8%20kyu/Convert%20a%20Number%20to%20a%20String%21/script.py) |
 | 16 | [Remove String Spaces](https://www.codewars.com/kata/57eae20f5500ad98e50002c5/train/python) | [script.py](https://github.com/kenneth2001/codewars_solution/blob/master/Solution/8%20kyu/Remove%20String%20Spaces/script.py) |
 | 17 | [Grasshopper - Summation](https://www.codewars.com/kata/55d24f55d7dd296eb9000030/train/python) | [script.py](https://github.com/kenneth2001/codewars_solution/blob/master/Solution/8%20kyu/Grasshopper%20-%20Summation/script.py) |
+| 18 | [Adults only (SQL for Beginners #1)](https://www.codewars.com/kata/590a95eede09f87472000213/train/sql) | | | | | [sol.sql](https://github.com/kenneth2001/codewars_solution/blob/master/Solution/8%20kyu/Adults%20only%20%28SQL%20for%20Beginners%20%231%29/sol.sql) |
 |  | **Challenge (7 kyu)** ||
 | 1 | [Complementary DNA](https://www.codewars.com/kata/554e4a2f232cdd87d9000038/train) | [script.py](https://github.com/kenneth2001/codewars_solution/blob/master/Solution/7%20kyu/Complementary%20DNA/script.py) |
 | 2 | [Count the Digit](https://www.codewars.com/kata/566fc12495810954b1000030/train) | [script.py](https://github.com/kenneth2001/codewars_solution/blob/master/Solution/7%20kyu/Count%20the%20Digit/script.py) |
@@ -70,6 +71,7 @@
 | 15 | [Bit Counting](https://www.codewars.com/kata/526571aae218b8ee490006f4/train/python) | [script.py](https://github.com/kenneth2001/Codewars_solution/tree/master/Solution/6%20kyu/Bit%20Counting/script.py) |
 | 16 | [Create Phone Number](https://www.codewars.com/kata/525f50e3b73515a6db000b83/train/python) | [script.py](https://github.com/kenneth2001/codewars_solution/blob/master/Solution/6%20kyu/Create%20Phone%20Number/script.py) |
 | 17 | [Replace With Alphabet Position](https://www.codewars.com/kata/546f922b54af40e1e90001da/train/python) | [script.py](https://github.com/kenneth2001/codewars_solution/blob/master/Solution/6%20kyu/Replace%20With%20Alphabet%20Position/script.py) |
+| 18 | [Convert string to camel case](https://www.codewars.com/kata/517abf86da9663f1d2000003/train/python) | [script.py](https://github.com/kenneth2001/codewars_solution/blob/master/Solution/6%20kyu/Convert%20string%20to%20camel%20case/script.py) |
 |  | **Challenge (5 kyu)** | |
 | 1 | [Basic DeNico](https://www.codewars.com/kata/596f610441372ee0de00006e/train) | [script.py](https://github.com/kenneth2001/codewars_solution/blob/master/Solution/5%20kyu/Basic%20DeNico/script.py) |
 | 2 | [Best travel](https://www.codewars.com/kata/55e7280b40e1c4a06d0000aa/train) | [script.py](https://github.com/kenneth2001/codewars_solution/blob/master/Solution/5%20kyu/Best%20travel/script.py) |
